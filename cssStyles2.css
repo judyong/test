@@ -1,0 +1,30 @@
+.capitals {
+	color:white;
+	background-color:pink;
+}
+
+#special {
+	background-color: rgb(255, 165, 0);
+	border: 5px solid red;
+	border-width: 2px;
+}
+
+div {
+	background-color: #FFFF00;
+}
+
+.box {
+	background-color: lightgrey;
+	width: 300px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
+
+p {
+	font-family: "Times New Roman";
+	font-style: oblique;
+	font-size: 30px
+	font-weight:bold;
+	font-variant: small-caps;
+}
